@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - Serves as the entry point for the program
+ * main - Printing
  *
- * Return by default always returns zero if no errors otherwise returns non-zero value
+ * Return: Always 0 (Successful) 
  */
 int main(void)
 {
